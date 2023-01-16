@@ -1,4 +1,4 @@
-# Rn demonstration
+# R demonstration
 R demonstration for the undergraduate Sociology methods course.
 
 ## Dataset:
@@ -20,5 +20,7 @@ install.packages("AICcmodavg")
 ```
 You should be set to start now!
 
+## Scripts:
 
+There is a [short](https://github.com/carol-siniscalchi/R_demonstration/blob/main/r_demo_v2.2.R) and [long](https://github.com/carol-siniscalchi/R_demonstration/blob/main/R_demo_v.2.0_longversion.R) version of the script. The long version contains some extra analyses. 
 
